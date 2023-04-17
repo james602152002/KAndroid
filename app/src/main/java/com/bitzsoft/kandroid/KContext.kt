@@ -49,9 +49,9 @@ import android.nfc.NfcManager
 import android.os.*
 import android.os.storage.StorageManager
 import android.print.PrintManager
-import android.support.annotation.LayoutRes
-import android.support.annotation.RequiresApi
-import android.support.annotation.StringRes
+import androidx.annotation.LayoutRes
+import androidx.annotation.RequiresApi
+import androidx.annotation.StringRes
 import android.telecom.TelecomManager
 import android.telephony.TelephonyManager
 import android.view.LayoutInflater

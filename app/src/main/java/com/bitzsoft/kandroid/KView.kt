@@ -18,7 +18,7 @@
 
 package com.bitzsoft.kandroid
 
-import android.support.annotation.IdRes
+import androidx.annotation.IdRes
 import android.view.View
 import android.view.View.*
 

@@ -17,7 +17,7 @@
 package com.bitzsoft.kandroid
 
 import android.content.Context
-import android.support.annotation.AnimRes
+import androidx.annotation.AnimRes
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 
